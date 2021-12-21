@@ -192,5 +192,5 @@ function App() {
 export default App;
 ```
 
-[1]: https://amritb.github.io/
+[1]: https://amritb.github.io/socketio-client-tool/
 [2]: https://stackoverflow.com/questions/67388378/sending-data-from-the-client-to-the-server-and-displaying-to-the-terminal-using
