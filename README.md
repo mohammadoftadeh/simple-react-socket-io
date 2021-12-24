@@ -6,7 +6,7 @@ A simple example of react app with node.js, express.js, socket.io, created to an
 
 [Sending data from the client to the server and displaying to the terminal using sockets][2]
 
-[![React and Socket.io with Express in 15 minutes , 2022 🕒 😳](https://github.com/mohammadoftadeh/repo-assets/blob/main/React%20and%20Socket.io%20with%20Express%20in%2015%20minutes%20%2C%202022.png)
+[React and Socket.io with Express in 15 minutes , 2022 🕒 😳](https://github.com/mohammadoftadeh/repo-assets/blob/main/React%20and%20Socket.io%20with%20Express%20in%2015%20minutes%20%2C%202022.png)
 
 **SERVER - BACK-END**
 
